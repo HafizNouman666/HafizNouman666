@@ -2,9 +2,9 @@
 
  <h1 align="center">Hi 👋, I'm Hafiz Nouman</h1>
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Artificial Intelligence
-- 💬 Ask me anything about Data Science, Machine learning, Deep Learning 
+- 🔭 I’m currently working on Generative AI
+- 🌱 I’m currently learning LLM Applications
+- 💬 Ask me anything about Generative AI , Agentic AI , Conversational AI , LLM's ,AI Automations
 - 📫 How to reach me: hafiznouman559@gmail.com
 - 😄 Social Links: linktr.ee/HafizNouman
   
